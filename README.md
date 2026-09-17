@@ -159,7 +159,7 @@ curl -X POST "http://localhost:8000/query" \
 
 ---
 
-## 📊 Evaluation Results (from Phase 2.6)
+## 📊 Evaluation Results
 | # | Test Question | Retrieved Source | Grounded? |
 |---|---|---|---|
 | 1 | What is the SLA response time for Sev-1 incidents? | `incident_sla_policy.txt` | Yes |
