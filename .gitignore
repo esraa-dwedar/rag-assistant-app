@@ -1,0 +1,13 @@
+﻿.venv/
+env/
+venv/
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+backend/data/vector_store/
+data/raw/
+*.log
+.DS_Store
+Thumbs.db
