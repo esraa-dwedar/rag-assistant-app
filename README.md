@@ -7,6 +7,7 @@ An end-to-end Retrieval-Augmented Generation (RAG) assistant that answers techni
 ## 📸 Application Demo
 
 ![Application Screenshot](screenshot.png)
+![Application Screenshot](screenshot_1.png)
 
 ---
 
