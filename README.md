@@ -171,3 +171,6 @@ curl -X POST "http://localhost:8000/query" \
 | 8 | What slack channel is used for critical war rooms? | `incident_sla_policy.txt` | Yes |
 | 9 | What should be checked if a Kubernetes node is NotReady? | `k8s_troubleshooting.txt` | Yes |
 | 10 | What is the maximum allowed replication lag for forced failover? | `database_failover.txt` | Yes |
+| 11 | What do you know about geopolitics in Africa?	|incident_sla_policy.txt (Low similarity) |	Correct (Refusal) |
+| 12 |	How to fix a GPU limit problem on Kaggle? |	k8s_troubleshooting.txt (Low similarity) |	Correct (Refusal) |
+| 13 |	How do I configure Redis Sentinel failover? |	database_failover.txt (Low similarity) | Correct (Refusal) |
